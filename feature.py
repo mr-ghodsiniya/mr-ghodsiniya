@@ -41,6 +41,3 @@
 
 # # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3000&color=ADBAC7&center=false&vCenter=true&repeat=false&width=700&lines=🏆+GitHub+Trophies:)](https://git.io/typing-svg)
 # ![](https://github-profile-trophy.vercel.app/?username=mr-ghodsiniya&theme=dark&no-frame=true&no-bg=true&margin-w=4)
-
-# Image at the end
-# ![1121317](https://user-images.githubusercontent.com/48970605/233646984-4c26ac3f-b567-4d38-8541-dfdbe371da9b.png)
