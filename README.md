@@ -13,15 +13,17 @@
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white) <br/>
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 <p align="left">
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3000&color=ADBAC7&center=false&vCenter=true&repeat=false&width=700&lines=My+🌐:+Connect+with+me)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3000&color=ADBAC7&center=false&vCenter=true&repeat=false&width=700&lines=My+🌐+=>+Connect+with+me)](https://git.io/typing-svg)
 <a href="https://www.linkedin.com/in/mr-ghodsiniya/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://instagram.com/mr_ghodsiniya">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <a href="mailto: amir.ghodsiniya01@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
+<br/>
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3000&color=ADBAC7&center=false&vCenter=true&repeat=false&width=700&lines=📊+GitHub+Stats:)](https://git.io/typing-svg)
 <p align="center">
