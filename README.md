@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=mr-ghodsiniya&icon=5&color=1)](https://visitcount.itsvg.in)
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3500&color=ADBAC7&center=false&vCenter=true&repeat=true&width=700&lines=Hi+👋+I'm+Amir;A+Backend+Developer+💻)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3300&color=ADBAC7&center=false&vCenter=true&repeat=true&width=700&lines=Hi+👋+I'm+Amir;A+Backend+Developer+💻)](https://git.io/typing-svg)
 🔭  I am currently engaged in a challenging project within the field of Backend Web Development, where I am leveraging my expertise and skills to deliver high-quality solutions.<br>👯  I am actively seeking opportunities to collaborate with like-minded professionals in the industry, aiming to engage in exciting projects that push the boundaries of technology and contribute to impactful solutions.<br>🤝 I am open to receiving assistance and guidance from experienced individuals who can provide valuable insights and contribute to the success of collaborative endeavors.<br>🌱 I am continuously enhancing my knowledge and staying abreast of the latest advancements in Backend Web Development. I believe in the importance of lifelong learning to constantly improve my abilities and remain at the forefront of industry trends.<br>💬 Feel free to engage in discussions about various topics, as I possess a broad range of knowledge and can provide insights on diverse subjects related to Backend Web Development and beyond.<br>⚡ Fun fact: Life
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3000&color=ADBAC7&center=false&vCenter=true&repeat=false&width=700&lines=My+🌐+=>+Connect+with+me)](https://git.io/typing-svg)
@@ -8,16 +8,16 @@
 <a href="https://instagram.com/mr_ghodsiniya">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 <a href="mailto: amir.ghodsiniya01@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3000&color=ADBAC7&center=false&vCenter=true&repeat=false&width=700&lines=💻+Languages+and+...+:)](https://git.io/typing-svg)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3000&color=ADBAC7&center=false&vCenter=true&repeat=false&width=700&lines=💻+Language+and+...:)](https://git.io/typing-svg)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![DjangoREST](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) <br/>
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20Web%20Tokens)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) <br/>
 <p align="left">
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+ <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 </p>
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3000&color=ADBAC7&center=false&vCenter=true&repeat=false&width=700&lines=💾+Database+/+Cache:)](https://git.io/typing-svg)
