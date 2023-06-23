@@ -48,5 +48,5 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3000&color=ADBAC7&center=false&vCenter=true&repeat=false&width=700&lines=📊+Record:)](https://git.io/typing-svg)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mr-ghodsiniya&theme=dark&hide_border=false)
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3000&color=ADBAC7&center=false&vCenter=true&repeat=false&width=700&lines=Also:)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3000&color=ADBAC7&center=false&vCenter=true&repeat=false&width=700&lines=💬+Also:)](https://git.io/typing-svg)
 ![1121317](https://user-images.githubusercontent.com/48970605/233646984-4c26ac3f-b567-4d38-8541-dfdbe371da9b.png)
