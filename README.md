@@ -53,9 +53,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mr-ghodsiniya&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true)
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3000&color=ADBAC7&center=false&vCenter=true&repeat=false&width=700&lines=💭+Also+🏡:)](https://git.io/typing-svg)
+![1121317](https://user-images.githubusercontent.com/48970605/233646984-4c26ac3f-b567-4d38-8541-dfdbe371da9b.png)
 ```
 {
-    "Response": "You can see this, I am interested in mutual recognition ;) "
+    "Response": "You can see this, I am interested in mutual recognition ;)"
 }
 ```
-![1121317](https://user-images.githubusercontent.com/48970605/233646984-4c26ac3f-b567-4d38-8541-dfdbe371da9b.png)
