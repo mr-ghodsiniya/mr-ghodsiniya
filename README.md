@@ -43,7 +43,7 @@
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3000&color=ADBAC7&center=false&vCenter=true&repeat=false&width=700&lines=📊+GitHub+Stats:)](https://git.io/typing-svg)
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-ghodsiniya&show_icons=true&theme=vue-dark&include_all_commits=true&hide_border=false&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-ghodsiniya&show_icons=true&theme=vue-dark&hide_border=false&include_all_commits=false&count_privates=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-ghodsiniya&include_all_commits=true&count_private=true&hide_border=false&layout=compact&theme=vue-dark" />
 </p>
 
