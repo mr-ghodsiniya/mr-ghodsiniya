@@ -43,14 +43,14 @@
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3000&color=ADBAC7&center=false&vCenter=true&repeat=false&width=700&lines=📊+GitHub+Stats:)](https://git.io/typing-svg)
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-ghodsiniya&show_icons=true&theme=vue-dark&include_all_commits=true&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-ghodsiniya&include_all_commits=true&count_private=true&hide_border=true&layout=compact&theme=vue-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mr-ghodsiniya&show_icons=true&theme=vue-dark&include_all_commits=true&hide_border=false&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-ghodsiniya&include_all_commits=true&count_private=true&hide_border=false&layout=compact&theme=vue-dark" />
 </p>
 
 ![Snake animation](https://github.com/mr-ghodsiniya/mr-ghodsiniya/blob/output/github-contribution-grid-snake.svg)
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3000&color=ADBAC7&center=false&vCenter=true&repeat=false&width=700&lines=📉+Record:)](https://git.io/typing-svg)
-![](https://github-readme-streak-stats.herokuapp.com/?user=mr-ghodsiniya&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mr-ghodsiniya&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=false)
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3000&color=ADBAC7&center=false&vCenter=true&repeat=false&width=700&lines=💭+Also+🏡:)](https://git.io/typing-svg)
 ![1121317](https://user-images.githubusercontent.com/48970605/233646984-4c26ac3f-b567-4d38-8541-dfdbe371da9b.png)
