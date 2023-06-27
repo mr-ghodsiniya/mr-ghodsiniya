@@ -6,6 +6,10 @@
 # ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 # ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 # ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+# ![DjangoREST](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) 
+# ![Design Patterns](https://img.shields.io/badge/Design_Patterns-FFC107?style=for-the-badge&logo=designpatterns&logoColor=white)
+# ![SOLID](https://img.shields.io/badge/SOLID-009688?style=for-the-badge&logo=python&logoColor=white)
+# ![Algorithms](https://img.shields.io/badge/Algorithms-2196F3?style=for-the-badge&logo=algorithm&logoColor=white)
 
 # For 🌐:
 # <a href="https://t.me/?????????????">![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
