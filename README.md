@@ -47,10 +47,8 @@
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3000&color=ADBAC7&center=false&vCenter=true&repeat=false&width=700&lines=📊+GitHub+Stats:)](https://git.io/typing-svg)
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mr-ghodsiniya&show_icons=true&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-ghodsiniya&include_all_commits=true&count_private=true&hide_border=false&layout=compact&theme=vue-dark" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=mr-ghodsiniya&theme=vue-dark&hide_border=false&show_icons=true&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mr-ghodsiniya&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![Snake animation](https://github.com/mr-ghodsiniya/mr-ghodsiniya/blob/output/github-contribution-grid-snake.svg)
 
