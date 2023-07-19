@@ -1,7 +1,8 @@
-[![](https://visitcount.itsvg.in/api?id=mr-ghodsiniya&icon=5&color=1)](https://visitcount.itsvg.in)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnhlamN1dG9kY3lhdTlpa3d0bmRrZ2IzdG9tMjJkY3NyeW4xdnh0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif" width="150"/> [![](https://visitcount.itsvg.in/api?id=mr-ghodsiniya&icon=5&color=1)](https://visitcount.itsvg.in) 
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3300&color=ADBAC7&center=false&vCenter=true&repeat=true&width=700&lines=Hi+👋+I'm+Amir;A+Backend+Developer+🎭🪄☕️)](https://git.io/typing-svg)
-* 🎈 I am currently engaged in a challenging project within the field of Backend Web Development, where I am leveraging my expertise and skills to deliver high-quality solutions.
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3300&color=ADBAC7&center=false&vCenter=true&repeat=true&width=700&lines=Hey+Guys+👋+I'm+Amir,;A+Backend+Developer+🎭🪄☕️)](https://git.io/typing-svg)
+* 🎈 I am currently engaged in a challenging project within the field of Backend Web Development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">
+, where I am leveraging my expertise and skills to deliver high-quality solutions.
 * 👥️ I am actively seeking opportunities to collaborate with like-minded professionals in the industry, aiming to engage in exciting projects that push the boundaries of technology and contribute to impactful solutions.
 * 🤝🏻 I am open to receiving assistance and guidance from experienced individuals who can provide valuable insights and contribute to the success of collaborative endeavors.
 * 🍃 I am continuously enhancing my knowledge and staying abreast of the latest advancements in Backend Web Development. I believe in the importance of lifelong learning to constantly improve my abilities and remain at the forefront of industry trends.
@@ -40,7 +41,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3000&color=ADBAC7&center=false&vCenter=true&repeat=false&width=700&lines=🖥+IDE+/+Editor:)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3000&color=ADBAC7&center=false&vCenter=true&repeat=false&width=700&lines=🖥+IDE+/+Editor:)](https://git.io/typing-svg) 
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) <br/>
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
