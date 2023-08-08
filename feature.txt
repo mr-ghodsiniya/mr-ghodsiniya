@@ -4,10 +4,10 @@
 # <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
 # ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
-# ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 # ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 # ![Design Patterns](https://img.shields.io/badge/Design_Patterns-FFC107?style=for-the-badge&logo=designpatterns&logoColor=white)
 # ![Algorithms](https://img.shields.io/badge/Algorithms-2196F3?style=for-the-badge&logo=algorithm&logoColor=white)
+# ![Data Structures](https://img.shields.io/badge/Data_Structures-4CAF50?style=for-the-badge&logo=datastructures&logoColor=white)
 
 # ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 
